@@ -9,11 +9,11 @@ html, body {
 h1{
 	font-size: 3rem;
 	color: #e2dbdb;
-	padding-bottom: 13rem;
+	padding-bottom: 15rem;
 }
 
 .buffer{
-	height: 17rem;
+	height: 12rem;
 }
 
 hr{
